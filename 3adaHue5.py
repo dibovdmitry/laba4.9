@@ -37,7 +37,7 @@ class MainWindow(QWidget):
         self.button1.setCheckable(True)
         self.button2 = QPushButton("Кирилл")
         self.button2.setCheckable(True)
-        self.button3 = QPushButton("Юргита")
+        self.button3 = QPushButton("Юрий")
         self.button3.setCheckable(True)
         self.button_group = QButtonGroup()
         self.button_group.addButton(self.button1)
